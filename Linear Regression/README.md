@@ -1,1 +1,1 @@
-In this folder we are going to show how to use decision tree to several datasets available.
+In this folder we are going to show how to use linear regression to several datasets available.
