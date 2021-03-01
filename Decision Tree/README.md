@@ -1,1 +1,1 @@
-The data were taken from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+In this folder, we are going to show how to use decision tree for several datasets.
